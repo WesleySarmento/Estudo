@@ -14,6 +14,15 @@ flex-direction => Alinha os elementos em linha(row) ou em colunas (column)
 flex-wap => Realiza a quebra de linha 
 flex-flow => Resume o flex-direction e o flex-wap em uma única linha
 justify-content => Justifica o conteúdo
+aling-items => Alinha os itens na área total
+Aling-Content => Junta todo mundo no menor espaço possível e depois alinha
+Gap => Espaçamento entre os itens
+Flex-Basis => Delimita o tamanho dos itens
+Flex-Grow => É a capacidade do item crescer no espaço vago / Controla quanto o item vai crescer
+Flex-Shrink => Controla quanto o item vai encolher
+Flex => Atalho para as propriedades (Basis | Grow | Shrink)
+Order => Inverte as ordens de exibição dos itens.
+Aling-Self => Alinha apenas um item individualmente.
 */
 
 .container {
